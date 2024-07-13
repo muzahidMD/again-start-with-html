@@ -1,0 +1,41 @@
+*{
+    /* margin: 0; */
+}
+.header{
+    font-size: 80px;
+    text-align: center;
+    margin: 80px 0;
+}
+.name{
+    text-decoration: underline;
+    font-style: italic;
+}
+.top-banner{
+    /* text-align: center; */
+    margin: 0;
+    width: 400px;
+    margin-left: 30px;
+}
+img{ 
+    width: 300px;
+    border: 3px solid rgb(28, 221, 221);
+    border-radius: 100%;
+    
+    box-shadow: 10px 5px 20px rgb(56, 230, 230);
+    /* margin-bottom: -25px; */
+}
+button{
+    padding: 10px 20px;
+    background: rgb(226, 67, 67);
+}
+/* #blog-sec{
+    display: grid;
+    justify-content: center;
+} */
+.blog{
+    margin: 30px 10px;
+    padding: 10px;
+    border: 3px solid rgb(34, 129, 167);
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(56, 230, 230);
+}

@@ -1,0 +1,21 @@
+.header{
+    text-align: justify;
+    font-size: 40px;
+    height: 400px;
+    background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: contain ;
+}
+ h3{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.blog{
+    margin: 30px;
+    border: 3px solid tomato;
+    box-shadow: 10px 10px 20px  wheat    ;
+} 
+li{
+    /* display: block; */
+}
